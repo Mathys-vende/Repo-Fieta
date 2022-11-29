@@ -1,0 +1,285 @@
+HTTP/1.1 200 OK
+Date: Tue, 29 Nov 2022 14:39:53 GMT
+Server: eiws
+Strict-Transport-Security: max-age=31536000
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Expires: Sat, 26 Jul 1997 05:00:00 GMT
+Pragma: no-cache
+isRH7: true
+Content-Type: application/xml;charset=utf-8
+Set-Cookie: IdSes=ead58d9f2287d96ad3686993a2976315ee8a47b9ef94fc965695f995b00fa369de072fe191e57d685acfb5389d022fa699511ccda124f842861968a8439ff6b5bfaa297979c0ebe3099cefc69b3f74638741fc74069cd73a6674cfe8d1e9bf4c746a93d454d57e3b93b8f90ebc2d65b41d115e13927da0cc4a01d5fe41b9a901c38c761950db8e5eb313cd1d4ed7a74e0bff419bb36836d5612d2cc63674d0dc9dfaa932d3aba65529078530a9f209af348f6614406ed6568ad3eabe2bc7847771cffd64ff011d8faf3af4aa620141ddc86a6cac93ef7b39a27a4586434bf47b85466ffd136616f175d3b72de94d697358d5b8ae0320afa94c3e995d061e3038676b52019628b3435f003537ded1e6e5a603f24fddcc41bfe4f1e99fe1d690c8353e9c4a4bd77d3f2dd54ad47324c755d784156ef530f14b0fd4505389ed4d8a0f7a161a9630ee3672f29ad6462e7b70b424deb2da36bf8292d513df2077c5e02a5443ba2266cb3a62c0249b312585e9cbfa2689d37f1546c0711d4059effe8043a25bf97b8f5f42751dd0ff8d70a3ca5717c0699e75709888bd42f891510c9dd271400853602e584117ba0a431435355684d6ccc8d71f5ad1583ec0fe1f3f75ba56730d5f105102247f05390e2801b95b1a52efeebf017d58b113dfe83d6dd0506bd26593d84e36d5b0b155391ea58393dda08254f7ede75d4c3a7f0a426c6ab381aed805a3aa3032fb0cc1afa75d2e442f822956645211a9a7e33625edc915227e920026838b3c3237b9793ee948ea; Path=/; Secure; HttpOnly
+Set-Cookie: nid=A3B178F3EFE3818A9C9A47FBF4BB3C5993899919; Max-Age=31536000; Expires=Wed, 29 Nov 2023 14:39:54 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: SessionTimeout=5; Path=/; Secure
+Set-Cookie: SessionStart=1669732794; Path=/; Secure
+Vary: Accept-Encoding
+Content-Length: 3571
+Connection: close
+
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<code_retour>0000</code_retour>
+
+
+
+
+<sca>TRUE</sca>
+
+<liste_fonction>
+    
+    <fct>
+        <code>BGD</code>
+    </fct>
+    
+    <fct>
+        <code>CP0</code>
+    </fct>
+    
+    <fct>
+        <code>EC0</code>
+    </fct>
+    
+    <fct>
+        <code>BCP</code>
+    </fct>
+    
+    <fct>
+        <code>MM1</code>
+    </fct>
+    
+    <fct>
+        <code>D10</code>
+    </fct>
+    
+    <fct>
+        <code>CYS</code>
+    </fct>
+    
+    <fct>
+        <code>CPS</code>
+    </fct>
+    
+    <fct>
+        <code>CPB</code>
+    </fct>
+    
+    <fct>
+        <code>PSH</code>
+    </fct>
+    
+    <fct>
+        <code>ESP</code>
+    </fct>
+    
+    <fct>
+        <code>SGE</code>
+    </fct>
+    
+    <fct>
+        <code>AVS</code>
+    </fct>
+    
+    <fct>
+        <code>NEW</code>
+    </fct>
+    
+    <fct>
+        <code>D07</code>
+    </fct>
+    
+    <fct>
+        <code>CY3</code>
+    </fct>
+    
+    <fct>
+        <code>CY4</code>
+    </fct>
+    
+    <fct>
+        <code>TAM</code>
+    </fct>
+    
+    <fct>
+        <code>CCD</code>
+    </fct>
+    
+    <fct>
+        <code>CCT</code>
+    </fct>
+    
+    <fct>
+        <code>CCR</code>
+    </fct>
+    
+    <fct>
+        <code>CCI</code>
+    </fct>
+    
+    <fct>
+        <code>CCO</code>
+    </fct>
+    
+    <fct>
+        <code>CCF</code>
+    </fct>
+    
+    <fct>
+        <code>STM</code>
+    </fct>
+    
+    <fct>
+        <code>PUS</code>
+    </fct>
+    
+    <fct>
+        <code>PKF</code>
+    </fct>
+    
+    <fct>
+        <code>CIM</code>
+    </fct>
+    
+    <fct>
+        <code>BKP</code>
+    </fct>
+    
+    <fct>
+        <code>BKK</code>
+    </fct>
+    
+    <fct>
+        <code>BKR</code>
+    </fct>
+    
+    <fct>
+        <code>CP4</code>
+    </fct>
+    
+    <fct>
+        <code>DCS</code>
+    </fct>
+    
+    <fct>
+        <code>DDO</code>
+    </fct>
+    
+    <fct>
+        <code>DDR</code>
+    </fct>
+    
+    <fct>
+        <code>DDS</code>
+    </fct>
+    
+    <fct>
+        <code>IA2</code>
+    </fct>
+    
+    <fct>
+        <code>MM4</code>
+    </fct>
+    
+    <fct>
+        <code>MMC</code>
+    </fct>
+    
+    <fct>
+        <code>VD0</code>
+    </fct>
+    
+    <fct>
+        <code>VD1</code>
+    </fct>
+    
+    <fct>
+        <code>VD2</code>
+    </fct>
+    
+    <fct>
+        <code>VD3</code>
+    </fct>
+    
+    <fct>
+        <code>VD4</code>
+    </fct>
+    
+    <fct>
+        <code>VD6</code>
+    </fct>
+    
+    <fct>
+        <code>VD8</code>
+    </fct>
+    
+    <fct>
+        <code>VDA</code>
+    </fct>
+    
+    <fct>
+        <code>VDB</code>
+    </fct>
+    
+    <fct>
+        <code>VDC</code>
+    </fct>
+    
+    <fct>
+        <code>VDD</code>
+    </fct>
+    
+    <fct>
+        <code>CH0</code>
+    </fct>
+    
+    <fct>
+        <code>TC0</code>
+    </fct>
+    
+    <fct>
+        <code>CP5</code>
+    </fct>
+    
+    <fct>
+        <code>CRI</code>
+    </fct>
+    
+    <fct>
+        <code>CP6</code>
+    </fct>
+    
+    <fct>
+        <code>CP7</code>
+    </fct>
+    
+    <fct>
+        <code>CP8</code>
+    </fct>
+    
+    <fct>
+        <code>XMD</code>
+    </fct>
+    
+    <fct>
+        <code>PSG</code>
+    </fct>
+    
+</liste_fonction>
+
+<userid>SMETBOL01MD</userid>
+<libelle_client>FA. TARGOBANK                  TESTFIRMASMEINTXX</libelle_client>
+<cin>524266284</cin>
+
+<blocking_reason></blocking_reason>
+
+<dtcnx>20221129153934</dtcnx>
+
+<fede>37</fede>
+
+<rib>5380405416</rib>
+
+
+
+<root_url>https://m.targobank.de/wsmobile/de/</root_url>
+<password_changed_date>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</password_changed_date>
+
+
+</root>
