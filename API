@@ -1,0 +1,10 @@
+POST /wsmobile/de/IDE2.html HTTP/1.1
+Host: m.targobank.de
+Accept: text/html,application/xml,application/json
+User-Agent: AndroidVersion:9;Model:A50;AppVersion:V9.47.1;MobileServices:GMS
+Content-Type: application/x-www-form-urlencoded;charset=utf-8
+Content-Length: 278
+Accept-Encoding: gzip, deflate
+Connection: close
+
+_cm_user=SMETBOL01MD&applicationCode=TBK&platform=ANDROID&deviceId=7bc81dce48055db4null&_appversion=9.47.1&_wsversion=2&userId=524266284&_cm_pwd=Badgirls1&cv=AN1&code=d4807110d605071ea61ed87d7a673f5cd68997634f20e0e43b5213ecd76388a5&timestamp=1669732387704&_cible=TARGO&_media=AN
